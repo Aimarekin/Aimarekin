@@ -1,6 +1,6 @@
 # Aimarekin
 ### Hobbyist developer
-I work with **Lua**, **Python**, **Javascript**, **GDScript** and **C#**
+I work with **Lua**, **Python**, **Javascript**, **GDScript** and **C(#/++)**
 
 I make mostly Roblox videogames, but also websites, Godot, Unity and Python programs like Discord bots. 🐕🐶
 
